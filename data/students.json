@@ -1,0 +1,154 @@
+[
+    {
+        "rollNo": "101",
+        "name": "avantika",
+        "marks": "450",
+        "result": [
+            "passed"
+        ]
+    },
+    {
+        "rollNo": "102",
+        "name": "Aleena",
+        "marks": "480",
+        "result": [
+            "passed"
+        ]
+    },
+    {
+        "rollNo": "103",
+        "name": "kushal",
+        "marks": "420",
+        "result": [
+            "passed"
+        ]
+    },
+    {
+        "rollNo": "104",
+        "name": "kubra",
+        "marks": "490",
+        "result": [
+            "passed"
+        ]
+    },
+    {
+        "rollNo": "105",
+        "name": "muffi",
+        "marks": "440",
+        "result": [
+            "passed"
+        ]
+    },
+    {
+        "rollNo": "106",
+        "name": "divya",
+        "marks": "400",
+        "result": [
+            "passed"
+        ]
+    },
+    {
+        "rollNo": "107",
+        "name": "multan",
+        "marks": "470",
+        "result": [
+            "passed"
+        ]
+    },
+    {
+        "rollNo": "108",
+        "name": "ahsan",
+        "marks": "340",
+        "result": [
+            "passed"
+        ]
+    },
+    {
+        "rollNo": "109",
+        "name": "lisa",
+        "marks": "490",
+        "result": [
+            "passed"
+        ]
+    },
+    {
+        "rollNo": "110",
+        "name": "heena",
+        "marks": "490",
+        "result": [
+            "passed"
+        ]
+    },
+    {
+        "rollNo": "111",
+        "name": "faizal",
+        "marks": "230",
+        "result": [
+            "failed"
+        ]
+    },
+    {
+        "rollNo": "112",
+        "name": "lamha",
+        "marks": "240",
+        "result": [
+            "failed"
+        ]
+    },
+    {
+        "rollNo": "113",
+        "name": "kinsa",
+        "marks": "220",
+        "result": [
+            "failed"
+        ]
+    },
+    {
+        "rollNo": "114",
+        "name": "ilahi",
+        "marks": "210",
+        "result": [
+            "failed"
+        ]
+    },
+    {
+        "rollNo": "115",
+        "name": "rohan",
+        "marks": "230",
+        "result": [
+            "failed"
+        ]
+    },
+    {
+        "rollNo": "116",
+        "name": "shoiab",
+        "marks": "180",
+        "result": [
+            "failed"
+        ]
+    },
+    {
+        "rollNo": "117",
+        "name": "lama",
+        "marks": "130",
+        "result": [
+            "failed"
+        ]
+    },
+    {
+        "rollNo": "118",
+        "name": "laddoo",
+        "marks": "230",
+        "result": [
+            "failed"
+        ]
+    },
+    {
+        "rollNo": "119",
+        "name": "naisha",
+        "marks": "190",
+        "result": [
+            "failed"
+        ]
+    }
+]
